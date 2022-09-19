@@ -1,0 +1,41 @@
+body {
+    margin: auto;
+    max-width: 1000px;
+    background-color: rgb(50, 50, 50);
+}
+.Bloco{
+    display: block
+    
+}
+
+
+.Flex-inline {
+    display: inline-flex;
+    align-items: center;
+    width: 800px;
+    height: 50px;
+    padding: 10px;
+    background-color: rgb(150, 150, 150);
+    color: yellow;
+}
+
+.Bloco2 {
+    height: 50px;
+    display: inline-flex;
+    align-items: center;
+    padding: 10px;
+    background-color: yellow;
+}
+
+.Home {
+    width: 50px;
+
+}
+
+.Sobre {
+    width: 50px;
+}
+
+.Contato {
+    width: 50px;
+}
